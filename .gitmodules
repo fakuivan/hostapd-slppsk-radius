@@ -1,0 +1,3 @@
+[submodule "radius-rs"]
+	path = radius-rs
+	url = git@github.com:fakuivan/radius-rs.git
